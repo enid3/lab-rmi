@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:dataContainer xmlns:ns2="data">
+    <counter>44</counter>
+    <data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="product">
+        <id>0</id>
+        <name>123123</name>
+        <price>123</price>
+    </data>
+    <data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="product">
+        <id>0</id>
+        <name>123123</name>
+        <price>123</price>
+    </data>
+    <data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="product">
+        <id>0</id>
+        <name>123123</name>
+        <price>123</price>
+    </data>
+    <data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="product">
+        <id>0</id>
+        <name>123123</name>
+        <price>123</price>
+    </data>
+</ns2:dataContainer>
